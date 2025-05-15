@@ -1,0 +1,23 @@
+house_prices_large.csv(text/csv) - 3134 bytes, last modified: 09/05/2025 - 100% done
+Saving house_prices_large.csv to house_prices_large.csv
+   Area  Bedrooms  Bathrooms  Parking  Age   Price
+0  1660         2          1        1   20  251796
+1  2094         2          2        1   10  342409
+2  1930         4          3        1   27  346390
+3  1895         5          1        2    4  357028
+4  2438         1          1        0    3  376363
+Predicted vs Actual Prices:
+Predicted: $312,459.98 | Actual: $292,836.00
+Predicted: $216,687.97 | Actual: $211,036.00
+Predicted: $378,958.07 | Actual: $384,058.00
+Predicted: $221,187.14 | Actual: $228,294.00
+Predicted: $417,917.04 | Actual: $420,443.00
+Predicted: $242,996.17 | Actual: $250,706.00
+Predicted: $210,489.53 | Actual: $192,980.00
+Predicted: $362,878.01 | Actual: $358,059.00
+Predicted: $177,887.74 | Actual: $181,867.00
+Predicted: $187,449.67 | Actual: $180,957.00
+
+Model Performance:
+Mean Squared Error: 245925990.92489204
+R² Score: 0.9676761439580798
